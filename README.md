@@ -43,7 +43,7 @@ Ping Pong happens to be a very popular video game since the dawn of video games.
 #### This project taught me many basic coding skill. The biggest challenge with the project was to make the ball move. This part of code required lot of efforts figuring out the geometry of grid.
 ##### Hope you like the efforts.
 
-Here's a snapshot of the game:
+Here's a snapshot of the game:<b>
 ![alt text](https://github.com/tanmayvijay/Ping-Pong-on-CPP/blob/master/Ping%20Pong%20-%20Image.png)
 <b><b>
   
