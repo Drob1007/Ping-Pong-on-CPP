@@ -44,7 +44,7 @@ Ping Pong happens to be a very popular video game since the dawn of video games.
 ##### Hope you like the efforts.
 
 Here's a snapshot of the game:
-![alt text]()
+![alt text](https://github.com/tanmayvijay/Ping-Pong-on-CPP/blob/master/Ping%20Pong%20-%20Image.png)
 <b><b>
   
 Thank You. :)
